@@ -1,0 +1,65 @@
+
+
+
+.todo-list {
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .todo-list h2 {
+    color: #3498db;
+  }
+  
+  .todo-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-list li {
+    margin-bottom: 5px;
+  }
+  
+
+  .movie-list {
+    border: 2px solid #27ae60;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .movie-list h2 {
+    color: #27ae60;
+  }
+  
+  .movie-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movie-list li {
+    margin-bottom: 5px;
+  }
+  
+  .book-list {
+    border: 2px solid #e74c3c;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .book-list h2 {
+    color: #e74c3c;
+  }
+  
+  .book-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .book-list li {
+    margin-bottom: 5px;
+  }
+  
+  
